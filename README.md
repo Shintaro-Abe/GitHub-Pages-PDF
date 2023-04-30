@@ -1,15 +1,10 @@
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5619TWNCST"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5619TWNCST');
-</script>
-</head>
-# test
 ### Blogs posts
 testtesttest
-
+<a class="twitter-timeline"
+  href="https://twitter.com/hinono2thinono2"
+  data-width="350"
+  data-height="450"
+  data-chrome="nofooter noheader"
+  data-tweet-limit="2">
+Tweets by @TwitterDev
+</a>
