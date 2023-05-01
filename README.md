@@ -1,4 +1,4 @@
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-G-Y4L1ZVVLKN-blue)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-G-Y4L1ZVVLKN&color=orange&style=flat-square)
 
 ### Blogs posts
 testtesttest
