@@ -1,7 +1,7 @@
 <head>
+<!--html_preserve-->
+<!--/html_preserve-->
 </head>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ### Blogs posts
 testtesttest
