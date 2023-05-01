@@ -1,4 +1,5 @@
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-G-Y4L1ZVVLKN&color=orange&style=flat-square)
+[![Analytics](https://img.shields.io/badge/analytics-Google%20Analytics-brightgreen.svg)](https://analytics.google.com/analytics/web/?authuser=0#/pG-Y4L1ZVVLKN/home)
+
 
 ### Blogs posts
 testtesttest
