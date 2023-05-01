@@ -1,4 +1,4 @@
-[![Analytics](https://img.shields.io/badge/analytics-Google%20Analytics-brightgreen.svg)](https://analytics.google.com/analytics/web/?authuser=0#/pG-Y4L1ZVVLKN/home)
+[![Analytics](https://img.shields.io/badge/analytics-Google%20Analytics-brightgreen.svg?link=https://analytics.google.com/analytics/web/?authuser=0#/pG-Y4L1ZVVLKN/home)](https://analytics.google.com/analytics/web/?authuser=0#/pG-Y4L1ZVVLKN/home)
 
 
 ### Blogs posts
