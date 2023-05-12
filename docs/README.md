@@ -7,4 +7,4 @@
 <iframe src="https://www.youtube.com/embed/?list=UUd6MoB9NC6uYN2grvUNT-Zg"></iframe>
 
 ## Links
-<a href="https://kws-cloud-tech.com/courses/speciality"><img src="https://img.shields.io/badge/CloudTech-0033FF.svg?style=flat-square"></a>
+<a href="https://kws-cloud-tech.com/courses/speciality" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CloudTech-0033FF.svg?style=flat-square"></a>
