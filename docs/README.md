@@ -13,8 +13,8 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a class="twitter-timeline" data-width="400" data-height="800" data-theme="light" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
-      <td align="center"><a class="twitter-timeline" data-width="400" data-height="800" data-theme="light" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+      <td align="center"><a class="twitter-timeline" data-width="350" data-height="600" data-theme="light" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+      <td align="center"><a class="twitter-timeline" data-width="350" data-height="600" data-theme="light" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
   </tbody>
 </table>
