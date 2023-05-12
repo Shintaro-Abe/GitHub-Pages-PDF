@@ -10,4 +10,4 @@
 <a href="https://kws-cloud-tech.com/courses/speciality" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CloudTech-0033FF.svg?style=flat-square"></a>
 
 ## SNS
-<a class="twitter-timeline" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" width="100%" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
