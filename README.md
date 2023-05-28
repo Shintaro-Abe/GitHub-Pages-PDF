@@ -25,3 +25,5 @@
     </tr>
   </tbody>
 </table>
+
+[taikii-blog]
