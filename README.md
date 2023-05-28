@@ -1,4 +1,7 @@
 # README
+[taikii-blog]: https://twitter.com/home
+
+[taikii-blog]
 
 ## abetest
 <table>
