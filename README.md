@@ -28,4 +28,4 @@
 
 [taikii-blog]
 
-<a href="[taikii-blog](https://twitter.com/home)"><img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white" alt= "test"></a></td>
+<a href="https://twitter.com/home"><img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white" alt= "test"></a></td>
