@@ -23,7 +23,7 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          md-to-pdf docs/README.md docs/README.pdf
+          md-to-pdf docs/README.md 
 
       - name: Commit and push
         run: |
