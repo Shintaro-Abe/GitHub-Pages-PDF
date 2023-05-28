@@ -1,32 +1,34 @@
-name: release pdf
-on:
+name: Convert Markdown to PDF using md-to-pdf
+
+on: 
   push:
     paths:
-      - docs/README.md
+      - 'docs/README.md'
 
 jobs:
-  build:
-    name: release pdf
+  convert:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: yarn
-      - run: yarn install
-      - name: Build pdf
-        run: yarn build:pdf
-      - name: Create a draft release
-        uses: softprops/action-gh-release@v1
-        with:
-          body: ${{ github.event.pull_request.title }}
-          draft: true
-          fail_on_unmatched_files: true
-          files: docs/README.pdf
-          name: Release ${{ github.ref }}
+          node-version: 14
+
+      - name: Install md-to-pdf
+        run: |
+          npm install -g md-to-pdf
+
+      - name: Convert Markdown to PDF
+        run: |
+          md-to-pdf docs/README.md README.pdf
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "121922274+Shintaro-Abe@users.noreply.github.com"
+          git config --local user.name "Shintaro Abe"
+          git add README.pdf
+          git commit -m "Update README.pdf"
+          git push
