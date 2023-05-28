@@ -28,4 +28,4 @@
 
 [taikii-blog]
 
-[taikii-blog]<img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white"></a></td>
+<a>[taikii-blog]<img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white"></a></td>
