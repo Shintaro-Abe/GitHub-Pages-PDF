@@ -1,7 +1,25 @@
+# GitHub-Pages-PDF
+## 概要
+[Overviewリポジトリ](https://github.com/Shintaro-Abe)で使用するために作成したシェルスクリプト。
+/docsに格納されているREADME.mdをもとにGitHub Pagesを作成。
+内容を更新次第PDFを生成し、ルートディレクトリに格納されているREADME.mdのバッジリンクを差し替え。
+GitHub Pagesの修正後、以下コマンドの実行により、
+PDF生成、プロフィールREADME.mdのリンク差し替え、リポジトリへのコミットとプッシュを実施。
+```
+bash gitpdf.sh
+```
+## スクリプトについて
+スクリプトは以下を参照。
+[gitpdf.sh](gitpdf.sh)
+
 ## テスト用バッジ
-- __各バッジのPDF取得方法__
-    - view : PDFのページへ遷移。
-    - Download : PDFデータをローカルへダウンロード。
+- __GitHubのパーマリンク。__
+```
+https://github.com/ユーザー名/リポジトリ名/オブジェクトの種類/コミットID/path/README.pdf
+```
+- __各バッジのPDF取得方法。__
+    - view : PDFのページへ遷移。オブジェクトの種類は` blob `。
+    - Download : PDFデータをローカルへダウンロード。オブジェクトの種類は` raw `。
 
 <table>
   <tbody>
