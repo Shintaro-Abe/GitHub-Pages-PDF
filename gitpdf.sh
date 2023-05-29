@@ -11,9 +11,9 @@ git push
 
 #PDFリンクURLの差し替え
 Commit_ID=$(git show --format='%H' --no-patch)
-gsed -i "/alt=\"PDF\"/c \
-\      <td align=\"left\"><a href=\"$Site_Repository/blob/$Commit_ID/docs/README.pdf\"><img alt=\"PDF\" src=\"$Site_Shields/View-PDF-red.svg?style=flat-square\"></a> \
-\<a href=\"$Site_Repository/raw/$Commit_ID/docs/README.pdf\"><img src=\"$Site_Shields/Download-PDF-red.svg?style=flat-square\"></a></td>" \
+gsed -i "/alt='PDF'/c \
+\      <td align='left'><a href='$Site_Repository/blob/$Commit_ID/docs/README.pdf'><img alt='PDF' src='$Site_Shields/View-PDF-red.svg?style=flat-square'></a> \
+\<a href='$Site_Repository/raw/$Commit_ID/docs/README.pdf'><img src='$Site_Shields/Download-PDF-red.svg?style=flat-square'></a></td>" \
 README.md
 git add README.md
 git commit -m 'Fixing links'
