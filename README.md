@@ -54,6 +54,6 @@ https://github.com/ユーザー名/リポジトリ名/オブジェクトの種�
 
 ## 参考資料
 
-[pdf_configsディレクトリ](pdf-configs)のconfig.jsとstyle.cssは、船場遼さんのZenn記事を参考。
+- [pdf_configsディレクトリ](pdf-configs)のconfig.jsとstyle.cssは、船場遼さんのZenn記事を参考
 
-[職務経歴書をGitHubで管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
+    - [職務経歴書をGitHubで管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
