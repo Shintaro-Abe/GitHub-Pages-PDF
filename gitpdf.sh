@@ -5,6 +5,7 @@ Site_Repository=https://github.com/Shintaro-Abe/test
 Site_Shields=https://img.shields.io/badge
 
 #PDF生成
+rm docs/README.pdf
 npx md-to-pdf docs/README.md --config-file ./pdf-configs/config.js
 git add docs
 git push
