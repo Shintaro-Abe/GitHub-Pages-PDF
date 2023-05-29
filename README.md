@@ -1,19 +1,19 @@
 # GitHub-Pages-PDF
 ## 概要
-- __[Overviewリポジトリ](https://github.com/Shintaro-Abe)で使用するために作成したシェルスクリプト。__
+- __[プロフィールリポジトリ](https://github.com/Shintaro-Abe)で使用するために作成したシェルスクリプト__
     - docsディレクトリに格納されているREADME.mdをもとにGitHub Pagesを作成。
     - 内容の更新後にPDFを生成し、ルートディレクトリに格納されているREADME.mdのバッジリンクを差し替え。
   
   
     <img src="images/ghp1.png" width="500px">
 
-- __シェルスクリプトの実行。__
+- __シェルスクリプトの実行__
     - GitHub Pagesの修正後、以下コマンドの実行により、PDF生成、プロフィールREADME.mdのリンク差し替え、リポジトリへのコミットとプッシュを実施。
 ```
 bash gitpdf.sh
 ```
 ## スクリプトについて
-スクリプトは
+コードは
 [gitpdf.sh](gitpdf.sh)
 を参照。
 
@@ -36,11 +36,11 @@ gsed -i '/キーワード/c 置き換え後の行' 対象ファイルのパス
     - ` git show --format='%H' --no-patch `コマンドで最新のコミットIDを取得。
 
 ## テスト用バッジ
-- __GitHubのパーマリンク。__
+- __GitHubのパーマリンク__
 ```
 https://github.com/ユーザー名/リポジトリ名/オブジェクトの種類/コミットID/path/README.pdf
 ```
-- __各バッジのPDF取得方法。__
+- __各バッジのPDF取得方法__
     - view : PDFのページへ遷移。オブジェクトの種類は` blob `。
     - Download : PDFデータをローカルへダウンロード。オブジェクトの種類は` raw `。
 
@@ -52,6 +52,8 @@ https://github.com/ユーザー名/リポジトリ名/オブジェクトの種�
   </tbody>
 </table>
 
-##　参考資料
-[pdf_configsディレクトリ](pdf-configs)のconfig.jsとstyle.cssは、船場遼さんの記事を参考。
+## 参考資料
+
+[pdf_configsディレクトリ](pdf-configs)のconfig.jsとstyle.cssは、船場遼さんのZenn記事を参考。
+
 [職務経歴書をGitHubで管理するノウハウ](https://zenn.dev/ryo_f/articles/2f925f621e6d99)
