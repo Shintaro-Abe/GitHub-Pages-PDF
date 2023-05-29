@@ -6,11 +6,11 @@
   <tbody>
     <tr>
       <td align="left">名前</td>
-      <td align="left">魏都　波浮</td>
+      <td align="left">魏都　羽生</td>
     </tr>
     <tr>
       <td align="left">生年月日</td>
-      <td align="left">xxxx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
     </tr>
     <tr>
       <td align="left">居住地</td>
@@ -18,7 +18,7 @@
     </tr>    
     <tr>
       <td align="left">最終学歴</td>
-      <td align="left">xx大学xx部xx学科</td>
+      <td align="left">〇〇大学〇〇部〇〇学科</td>
     </tr> 
   </tbody>
 </table>
@@ -36,42 +36,42 @@
   <tbody>
     <tr>
       <td align="left">Cloud Practitioner</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr>
     <tr>
       <td align="left">Solutions Architect Associate</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr>
     <tr>
       <td align="left">Developer Associate</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr>    
     <tr>
       <td align="left">SysOps Administrator Associate</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">DevOps Engineer Professional</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">Solutions Architect Professional</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">SAP on AWS Specialty</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">Security Specialty</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
       <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
   </tbody>
@@ -89,15 +89,15 @@
   <tbody>
     <tr>
       <td align="left">資格１</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
     </tr>
     <tr>
       <td align="left">資格２</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
     </tr>
     <tr>
       <td align="left">普通自動車第一種運転免許</td>
-      <td align="left">20xx年xx月xx日</td>
+      <td align="left">〇〇〇〇年〇〇月〇〇日</td>
     </tr>    
   </tbody>
 </table>
@@ -139,7 +139,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">20xx年xx月〜<br>20xx年xx月</td>
+      <td align="left">〇〇〇〇年〇〇月〜<br>〇〇〇〇年〇〇月</td>
       <td align="left"><strong>本部へ異動。</strong>
         <ul>
           <li>音楽教室入会者の半数が1年以内に退会する問題の改善を目指す、受講生と講師をマッチングさせるプロジェクトに参加。コンタクトセンター設立を担当。</li>
@@ -150,11 +150,11 @@
       </td>
     </tr>
     <tr>
-      <td align="left">20xx年xx月〜<br>20xx年xx月</td>
-      <td align="left"><strong>音楽教室店長に就任。</strong><br>正社員へ昇格(2019年6月)。
+      <td align="left">〇〇〇〇年〇〇月〜<br>〇〇〇〇年〇〇月</td>
+      <td align="left"><strong>音楽教室店長に就任。</strong><br>正社員へ昇格(〇〇19年6月)。
         <ul>
-          <li>ヤマノミュージックサロン吉祥寺と、ヤマノミュージックサロン三鷹を兼任(2021年4月〜2022年6月)。</li>
-          <li>ヤマノミュージックサロン柏(2019年4月〜2022年3月)。</li>
+          <li>ヤマノミュージックサロン吉祥寺と、ヤマノミュージックサロン三鷹を兼任(〇〇21年4月〜〇〇22年6月)。</li>
+          <li>ヤマノミュージックサロン柏(〇〇19年4月〜〇〇22年3月)。</li>
           <li>スタッフ育成と店舗管理に従事。</li>
           <li>年度の売上・利益予算を基に年間の楽器販売とイベント計画を設定。各担当スタッフの業務へ落とし込み、売上の進捗を共有することで年度予算を105％達成。</li>
           <li>組織図を作りスタッフの役割を明確にすることで、ベテランスタッフが新人を指導する体制を構築。</li>
@@ -166,10 +166,10 @@
       </td>
     </tr>
     <tr>
-      <td align="left">20xx年xx月〜<br>20xx年xx月</td>
+      <td align="left">〇〇〇〇年〇〇月〜<br>〇〇〇〇年〇〇月</td>
       <td align="left"><strong>顧客を増やすために音楽ファンを育てる事が必要という想いから、自ら希望して音楽教室の部署へ異動。</strong>
         <ul>
-          <li>ヤマノミュージックサロン吉祥寺(2015年4月〜2019年3月)。ヤマノミュージックサロン三鷹(2014年4月〜2015年3月)</li>
+          <li>ヤマノミュージックサロン吉祥寺(〇〇15年4月〜〇〇19年3月)。ヤマノミュージックサロン三鷹(〇〇14年4月〜〇〇15年3月)</li>
           <li>音楽教室の生徒向けに、弦楽器の展示販売会を定期的に実施。社内の楽器販売キャンペーンで、販売数の部と販売金額の部で受賞。</li>
           <li>山野楽器音楽教室の全体イベント「サウンドフェスティバル」のイベントリーダーを担当。3ヶ月間で18回のコンテストを実施。</li>
           <li>音響操作、司会、舞台セッティングを全て音楽教室スタッフが行うため、店舗間でノウハウを共有できるように指導。</li>
@@ -179,10 +179,10 @@
       </td>
     </tr>   
     <tr>
-      <td align="left">20xx年xx月〜<br>20xx年xx月</td>
+      <td align="left">〇〇〇〇年〇〇月〜<br>〇〇〇〇年〇〇月</td>
       <td align="left"><strong>アルバイトとして入社。銀座本店クラシックCDフロアスタッフとして勤務。</strong>
         <ul>
-          <li>契約社員へ昇格(2013年7月)。</li>
+          <li>契約社員へ昇格(〇〇13年7月)。</li>
           <li>輸入盤CD仕入れを担当。</li>
         </ul>
       </td>
@@ -205,7 +205,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">20xx年xx月〜<br>20xx年xx月</td>
+      <td align="left">〇〇〇〇年〇〇月〜<br>〇〇〇〇年〇〇月</td>
       <td align="left">
         <ul>
           <li>アルバイトのシフト作成、勤怠管理を担当。</li>
@@ -231,7 +231,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">20xx年xx月〜<br>20xx年xx月</td>
+      <td align="left">〇〇〇〇年〇〇月〜<br>〇〇〇〇年〇〇月</td>
       <td align="left"><strong>ピアノ講師として勤務。</strong>
         <ul>
           <li>4歳〜70代まで、30名程度の生徒を担当。</li>
