@@ -6,9 +6,6 @@
   "directories": {
     "doc": "docs"
   },
-  "scripts": {
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shintaro-Abe/test.git"
