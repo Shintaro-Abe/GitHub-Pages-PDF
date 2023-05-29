@@ -1,10 +1,15 @@
 #!/bin/sh
+
+#HTMLの環境変数
 Site_Repository=https://github.com/Shintaro-Abe/test
 Site_Shields=https://img.shields.io/badge
+
+#PDF生成
 npx md-to-pdf docs/README.md --config-file ./pdf-configs/config.js
 git add docs
 git push
 
+#PDFリンクURLの差し替え
 Commit_ID=$(git show --format='%H' --no-patch)
 gsed -i "/alt=\"PDF\"/c \
 \      <td align=\"left\"><a href=\"$Site_Repository/blob/$Commit_ID/docs/README.pdf\"><img alt=\"PDF\" src=\"$Site_Shields/View-PDF-red.svg?style=flat-square\"></a> \
