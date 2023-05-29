@@ -179,7 +179,7 @@
   </tbody>
 </table>
 
-## 〇〇〇〇 株式会社
+### 〇〇〇〇 株式会社
 
 <table>
   <colgroup>
