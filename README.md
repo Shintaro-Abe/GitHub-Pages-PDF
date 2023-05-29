@@ -4,8 +4,8 @@
     - docsディレクトリに格納されているREADME.mdをもとにGitHub Pagesを作成。
     - 内容の更新後にPDFを生成し、ルートディレクトリに格納されているREADME.mdのバッジリンクを差し替え。
   
-    ![職務履歴書PDFバッジ](images/ghp1.png)
-    
+    ![職務履歴書PDFバッジ](images/ghp1.png =500x)
+
 - __シェルスクリプトの実行。__
     - GitHub Pagesの修正後、以下コマンドの実行により、PDF生成、プロフィールREADME.mdのリンク差し替え、リポジトリへのコミットとプッシュを実施。
 ```
