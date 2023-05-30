@@ -37,42 +37,42 @@
     <tr>
       <td align="left">Cloud Practitioner</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr>
     <tr>
       <td align="left">Solutions Architect Associate</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr>
     <tr>
       <td align="left">Developer Associate</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr>    
     <tr>
       <td align="left">SysOps Administrator Associate</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">DevOps Engineer Professional</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">Solutions Architect Professional</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">SAP on AWS Specialty</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
     <tr>
       <td align="left">Security Specialty</td>
       <td align="left">〇〇〇〇年〇〇月〇〇日</td>
-      <td align="left"><a href="path/file_name.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/user_name/repository_name-Abe/object/commit_id/path/file_name.pdf">PDF</a></td>
     </tr> 
   </tbody>
 </table>
