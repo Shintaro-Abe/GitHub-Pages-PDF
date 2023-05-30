@@ -2,7 +2,7 @@
 ## 概要
 - __[プロフィールリポジトリ](https://github.com/Shintaro-Abe)で使用するために作成したシェルスクリプト__
     - docsディレクトリに格納されているREADME.mdをもとにGitHub Pagesを作成。
-    - 内容の更新後にPDFを生成し、ルートディレクトリに格納されているREADME.mdのバッジリンクを差し替え。
+    - 記事の更新後にPDFを生成し、ルートディレクトリに格納されているREADME.mdのバッジリンクを差し替え。
   
   
     <img src="images/ghp1.png" width="500px">
